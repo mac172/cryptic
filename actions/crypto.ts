@@ -1,5 +1,6 @@
 'use server'
 
+// All the API call handle here!
 import { CryptoAsset, MarketData, CryptoDetail } from '../types/crypto'
 
 const COINGECKO_API = 'https://api.coingecko.com/api/v3'
